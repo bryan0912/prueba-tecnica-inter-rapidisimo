@@ -1,0 +1,11 @@
+C:\Users\Bryan\Desktop\Documentos\prueba_tecnica_Inter\inter-rapidisimo-prueba\src\StudentRegistration.Domain\bin\Debug\net8.0\StudentRegistration.Domain.deps.json
+C:\Users\Bryan\Desktop\Documentos\prueba_tecnica_Inter\inter-rapidisimo-prueba\src\StudentRegistration.Domain\bin\Debug\net8.0\StudentRegistration.Domain.dll
+C:\Users\Bryan\Desktop\Documentos\prueba_tecnica_Inter\inter-rapidisimo-prueba\src\StudentRegistration.Domain\bin\Debug\net8.0\StudentRegistration.Domain.pdb
+C:\Users\Bryan\Desktop\Documentos\prueba_tecnica_Inter\inter-rapidisimo-prueba\src\StudentRegistration.Domain\obj\Debug\net8.0\StudentRegistration.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\Desktop\Documentos\prueba_tecnica_Inter\inter-rapidisimo-prueba\src\StudentRegistration.Domain\obj\Debug\net8.0\StudentRegistration.Domain.AssemblyInfoInputs.cache
+C:\Users\Bryan\Desktop\Documentos\prueba_tecnica_Inter\inter-rapidisimo-prueba\src\StudentRegistration.Domain\obj\Debug\net8.0\StudentRegistration.Domain.AssemblyInfo.cs
+C:\Users\Bryan\Desktop\Documentos\prueba_tecnica_Inter\inter-rapidisimo-prueba\src\StudentRegistration.Domain\obj\Debug\net8.0\StudentRegistration.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Desktop\Documentos\prueba_tecnica_Inter\inter-rapidisimo-prueba\src\StudentRegistration.Domain\obj\Debug\net8.0\StudentRegistration.Domain.dll
+C:\Users\Bryan\Desktop\Documentos\prueba_tecnica_Inter\inter-rapidisimo-prueba\src\StudentRegistration.Domain\obj\Debug\net8.0\refint\StudentRegistration.Domain.dll
+C:\Users\Bryan\Desktop\Documentos\prueba_tecnica_Inter\inter-rapidisimo-prueba\src\StudentRegistration.Domain\obj\Debug\net8.0\StudentRegistration.Domain.pdb
+C:\Users\Bryan\Desktop\Documentos\prueba_tecnica_Inter\inter-rapidisimo-prueba\src\StudentRegistration.Domain\obj\Debug\net8.0\ref\StudentRegistration.Domain.dll

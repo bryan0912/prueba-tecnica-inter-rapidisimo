@@ -1,0 +1,15 @@
+C:\Users\Bryan\Desktop\Documentos\prueba_tecnica_Inter\inter-rapidisimo-prueba\src\StudentRegistration.Application\bin\Debug\net8.0\StudentRegistration.Application.deps.json
+C:\Users\Bryan\Desktop\Documentos\prueba_tecnica_Inter\inter-rapidisimo-prueba\src\StudentRegistration.Application\bin\Debug\net8.0\StudentRegistration.Application.dll
+C:\Users\Bryan\Desktop\Documentos\prueba_tecnica_Inter\inter-rapidisimo-prueba\src\StudentRegistration.Application\bin\Debug\net8.0\StudentRegistration.Application.pdb
+C:\Users\Bryan\Desktop\Documentos\prueba_tecnica_Inter\inter-rapidisimo-prueba\src\StudentRegistration.Application\bin\Debug\net8.0\StudentRegistration.Domain.dll
+C:\Users\Bryan\Desktop\Documentos\prueba_tecnica_Inter\inter-rapidisimo-prueba\src\StudentRegistration.Application\bin\Debug\net8.0\StudentRegistration.Domain.pdb
+C:\Users\Bryan\Desktop\Documentos\prueba_tecnica_Inter\inter-rapidisimo-prueba\src\StudentRegistration.Application\obj\Debug\net8.0\StudentRegistration.Application.csproj.AssemblyReference.cache
+C:\Users\Bryan\Desktop\Documentos\prueba_tecnica_Inter\inter-rapidisimo-prueba\src\StudentRegistration.Application\obj\Debug\net8.0\StudentRegistration.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\Desktop\Documentos\prueba_tecnica_Inter\inter-rapidisimo-prueba\src\StudentRegistration.Application\obj\Debug\net8.0\StudentRegistration.Application.AssemblyInfoInputs.cache
+C:\Users\Bryan\Desktop\Documentos\prueba_tecnica_Inter\inter-rapidisimo-prueba\src\StudentRegistration.Application\obj\Debug\net8.0\StudentRegistration.Application.AssemblyInfo.cs
+C:\Users\Bryan\Desktop\Documentos\prueba_tecnica_Inter\inter-rapidisimo-prueba\src\StudentRegistration.Application\obj\Debug\net8.0\StudentRegistration.Application.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Desktop\Documentos\prueba_tecnica_Inter\inter-rapidisimo-prueba\src\StudentRegistration.Application\obj\Debug\net8.0\StudentR.CA5BD916.Up2Date
+C:\Users\Bryan\Desktop\Documentos\prueba_tecnica_Inter\inter-rapidisimo-prueba\src\StudentRegistration.Application\obj\Debug\net8.0\StudentRegistration.Application.dll
+C:\Users\Bryan\Desktop\Documentos\prueba_tecnica_Inter\inter-rapidisimo-prueba\src\StudentRegistration.Application\obj\Debug\net8.0\refint\StudentRegistration.Application.dll
+C:\Users\Bryan\Desktop\Documentos\prueba_tecnica_Inter\inter-rapidisimo-prueba\src\StudentRegistration.Application\obj\Debug\net8.0\StudentRegistration.Application.pdb
+C:\Users\Bryan\Desktop\Documentos\prueba_tecnica_Inter\inter-rapidisimo-prueba\src\StudentRegistration.Application\obj\Debug\net8.0\ref\StudentRegistration.Application.dll
