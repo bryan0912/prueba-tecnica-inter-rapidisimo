@@ -1,6 +1,6 @@
 import { Component, inject } from '@angular/core';
 import { FormBuilder, ReactiveFormsModule, Validators } from '@angular/forms';
-import { Router } from '@angular/router';
+import { Router, RouterModule } from '@angular/router'; // <-- Agregado RouterModule
 import { AuthService } from '../../core/services/auth.service';
 import { MatCardModule } from '@angular/material/card';
 import { MatFormFieldModule } from '@angular/material/form-field';
@@ -11,7 +11,7 @@ import { CommonModule } from '@angular/common';
 @Component({
   selector: 'app-login',
   standalone: true,
-  imports: [CommonModule, ReactiveFormsModule, MatCardModule, MatFormFieldModule, MatInputModule, MatButtonModule],
+  imports: [CommonModule, ReactiveFormsModule, RouterModule, MatCardModule, MatFormFieldModule, MatInputModule, MatButtonModule], // <-- Agregado RouterModule
   template: `
     <div class="login-container">
       <mat-card class="login-card">
@@ -33,6 +33,12 @@ import { CommonModule } from '@angular/common';
               Ingresar
             </button>
           </form>
+          
+          <!-- ESTE ES EL NUEVO ENLACE AL REGISTRO -->
+          <div style="text-align: center; margin-top: 20px;">
+            <a routerLink="/registro" style="color: #3f51b5; text-decoration: none; font-size: 14px;">¿No tienes cuenta? Regístrate aquí</a>
+          </div>
+          
         </mat-card-content>
       </mat-card>
     </div>

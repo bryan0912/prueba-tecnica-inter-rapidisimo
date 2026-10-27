@@ -1,0 +1,22 @@
+# =========================
+# Archivos de .NET
+# =========================
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# =========================
+# Archivos de Angular / Node
+# =========================
+node_modules/
+dist/
+.angular/
+*.log
+
+# =========================
+# Archivos del Sistema
+# =========================
+.DS_Store
+Thumbs.db

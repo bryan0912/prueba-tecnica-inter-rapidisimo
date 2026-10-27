@@ -16,11 +16,11 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
 
-// 3. Configuración de JWT
-// 3. Configuración de JWT
+
 var jwtSettings = builder.Configuration.GetSection("JwtSettings");
 var secret = jwtSettings["Secret"]!;
-// Usamos UTF8 (es el estándar para JWT) y lo usamos de forma explícita
+
+
 var secretKey = new SymmetricSecurityKey(System.Text.Encoding.UTF8.GetBytes(secret));
 
 builder.Services.AddAuthentication(options =>
@@ -35,7 +35,7 @@ builder.Services.AddAuthentication(options =>
     options.TokenValidationParameters = new TokenValidationParameters
     {
         ValidateIssuerSigningKey = true,
-        IssuerSigningKey = secretKey, // <-- Usamos la llave creada arriba
+        IssuerSigningKey = secretKey, 
         ValidateIssuer = true,
         ValidIssuer = jwtSettings["Issuer"],
         ValidateAudience = true,
@@ -70,7 +70,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseCors("AllowAngular"); 
 
-// app.UseHttpsRedirection();
+
 app.UseAuthentication();
 app.UseAuthorization();
 app.MapControllers();
